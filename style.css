@@ -2,7 +2,7 @@
 
 
 body {
-	
+	padding: 10px;
 	background: beige;
 	font-family:Arial,Helvetica,sans-serif;
 	text-align: center; 
@@ -17,4 +17,28 @@ body {
 
 a {
 	font-weight: bold;
+}
+
+hr {
+	font-weight: bold;
+	color:black;
+}
+
+
+.aboutme p{
+	font-family:Arial,Helvetica,sans-serif;
+	font-size: 22px;
+	text-align: left;
+}
+
+.aboutme {
+	padding-left:300px;
+	padding-right:300px;
+    margin: 30px;
+
+}
+
+.aboutme h1 {
+	font-weight: bold;
+	color: blue;
 }
