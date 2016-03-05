@@ -67,3 +67,14 @@ hr {
 	font-family:Arial,Helvetica,sans-serif;
 	font-size: 22px;
 }
+
+.resume h1 {
+	font-family:Arial,Helvetica,sans-serif;
+	font-weight: bold;
+	color: blue;
+}
+
+.resume p {
+	font-family:Arial,Helvetica,sans-serif;
+	font-size: 22px;
+}
